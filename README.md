@@ -1,7 +1,7 @@
 # E-Commerce Back End
 
 ## Description
-This project demonstrates a functioning back end database with POST, PUT, DELETE, and GET api ROUTES that can be utilized in Insomnia
+This project demonstrates a functioning back end database with POST, PUT, DELETE, and GET API routes that can be utilized in Insomnia
 Video demonstration: https://www.youtube.com/watch?v=oeuR7ZJF7AE
 # Table of Contents
 * [Installation](#installation)
